@@ -32,7 +32,6 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 import java.io.IOException;
 import java.io.OutputStream;
-import java.util.List;
 
 /**
  * PDF文档相关操作类.
